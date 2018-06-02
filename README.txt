@@ -1,0 +1,3 @@
+Salut, je me présente au nom de NYAGBE Victor, je suis togolais et étudiant en filière informatique deuxième année.
+
+Le projet que j'enverrai est un script qui en fonction du pays choisi, si il y a des états correspondant au pays selectionné alors on aura un champ état qui sera associé au champ de pays en les affichant. Le script est en relation avec une base de données.
