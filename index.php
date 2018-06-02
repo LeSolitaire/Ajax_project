@@ -1,5 +1,5 @@
 <?php
-//Inclusion de la configuration
+//Inclusion de la configuration 
 include 'dbConfig.php';
 
 //Selection des donnees des pays
@@ -27,3 +27,4 @@ $rowCount = $query->num_rows;
    <option value =''> Selectionner d'abord le pays</option>
 </select>
 
+<script src='jquery-3.3.1.min.js'></script>
